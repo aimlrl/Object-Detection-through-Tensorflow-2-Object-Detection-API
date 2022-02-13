@@ -1,4 +1,4 @@
-Links for Downloading Complete Tensorflow 2 Object Detection Installation Folder:
+Link for Downloading Complete Tensorflow 2 Object Detection Installation Folder:
 
-https://drive.google.com/drive/folders/1TdfdM2qjhzxP1w7G_npn3BBHFpQ9oE1P?usp=sharing
+https://drive.google.com/drive/folders/1Mq0dwDOshf4tc4O8I__G6QrHPS2fpmtn?usp=sharing
 
